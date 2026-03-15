@@ -18,7 +18,7 @@ This project predicts whether a customer will churn using Machine Learning.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/churn-prediction-app.git
+git clone https://github.com/VishishtaPanuganti/customer-churn-prediction.git
 
 Install dependencies:
 
